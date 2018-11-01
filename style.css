@@ -1,0 +1,142 @@
+body {
+    background-color: #212227;
+    margin: 0px;
+    overflow: auto;
+  }
+  
+  span.highlight {
+    font-family: "Indie Flower", cursive;
+    font-size: 115%;
+    color: #e3d888;
+  }
+  
+  span#smaller {
+    font-family: "Amatic SC", cursive;
+    font-size: 90%;
+    color: #e3d888;
+  }
+  
+  p {
+    margin: 10px;
+    padding: 0px 10px 0px 10px;
+    border: 10px;
+  }
+  
+  .parent {
+    background: #9896a1;
+    overflow: auto;
+    text-align: center;
+    width: 600px;
+    padding: 25px;
+  }
+  
+  .style {
+    text-align: center;
+    float: left;
+    width: 300px;
+  }
+  
+  .quote-one {
+    background: #726da8;
+    font-family: "Mali", cursive;
+    font-size: 35px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-two {
+    background: #7d8cc4;
+    font-family: "Amatic SC", cursive;
+    font-size: 30px;
+    color: black;
+    padding: 5px;
+  }
+  
+  .quote-three {
+    background: #8d7990;
+    font-family: "Amatic SC", cursive;
+    font-size: 28px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-four {
+    background: #496064;
+    font-family: "Gloria Hallelujah", cursive;
+    font-size: 25px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-five {
+    background: #39405a;
+    font-family: "Caveat", cursive;
+    font-size: 40px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-six {
+    background: #92bfc8;
+    font-family: "Amatic SC", cursive;
+    font-size: 40px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-seven {
+    background: #d4e09b;
+    font-family: "Handlee", cursive;
+    font-size: 45px;
+    color: #757574;
+    padding: 5px;
+  }
+  
+  .quote-eight {
+    background: #422b24;
+    font-family: "Architects Daughter", cursive;
+    font-size: 35px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-nine {
+    background: #773344;
+    font-family: "Amatic SC", cursive;
+    font-size: 45px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-ten {
+    background: #606c38;
+    font-family: "Mali", cursive;
+    font-size: 30px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-eleven {
+    background: #d99da1;
+    font-family: "Amatic SC", cursive;
+    font-size: 45px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-twelve {
+    background: #92bfc8;
+    font-family: "Amatic SC", cursive;
+    font-size: 40px;
+    color: white;
+    padding: 5px;
+  }
+  
+  .quote-thirteen {
+    background: #0a1019;
+    font-family: "Amatic SC", cursive;
+    font-size: 74px;
+    color: white;
+    padding: 5px;
+  }
+  
